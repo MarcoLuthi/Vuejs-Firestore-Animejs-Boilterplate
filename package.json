@@ -7,8 +7,13 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@firebase/app": "^0.4.15",
+    "@firebase/firestore": "^1.4.12",
     "core-js": "^2.6.5",
+    "firebase": "^6.6.0",
     "vue": "^2.6.10",
+    "vue-animejs": "^2.1.1",
+    "vue-firestore": "^0.3.22",
     "vue-router": "^3.0.3",
     "vuex": "^3.0.1"
   },
